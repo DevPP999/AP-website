@@ -1,0 +1,195 @@
+{
+  "navbar": {
+    "about": "About Us",
+    "whyap": "WHY AP",
+    "products": "Solutions",
+    "articles": "Insights",
+    "contact": "Contact Us"
+  },
+  "hero": {
+    "title": "AP | The Leader in End-to-End Electrical Systems",
+    "highlight": "",
+    "desc1": "Simplify your project's electrical systems. From high to low voltage",
+    "desc2": "we are the single-source partner providing complete, reliable solutions you can trust.",
+    "btnExplore": "Explore Solutions",
+    "btnProjects": "View Our Projects"
+  },
+  "whyAP": {
+    "title": "Certified Quality, Trusted by Industry Leaders",
+    "certifications": [
+      {
+        "titleImage": "iso.png",
+        "title": "ISO 9001:2015 Certified",
+        "description": "Our operations meet the ISO 9001:2015 international standard, ensuring a verified commitment to quality management and service excellence."
+      },
+      {
+        "titleImage": "mit.webp",
+        "title": "Made in Thailand (MiT) Accredited",
+        "description": "We are proud to manufacture high-quality products in Thailand, supporting the local economy while meeting rigorous domestic and international standards."
+      }
+    ],
+    "partnerships": [
+      {
+        "titleImage": "egat.webp",
+        "title": "Electricity Generating Authority of Thailand (EGAT)",
+        "description": "A key partner in engineering and developing efficient and sustainable power generation solutions for the nation."
+      },
+      {
+        "titleImage": "mea.webp",
+        "title": "Metropolitan Electricity Authority (MEA)",
+        "description": "A trusted collaborator in the modernization and expansion of Bangkok's smart grid and electrical distribution system."
+      },
+      {
+        "titleImage": "pea.webp",
+        "title": "Provincial Electricity Authority (PEA)",
+        "description": "Working together to build and enhance crucial electrical infrastructure, ensuring reliable power coverage across all provincial regions of Thailand."
+      }
+    ],
+    "whyChooseTitle": "Why Choose AP?",
+    "whyChooseAp": [
+      {
+        "icon": "🔄",
+        "title": "One-Stop Solution",
+        "description": "Our extensive portfolio covers 8 major product categories to meet every requirement of your large-scale projects. We streamline procurement and simplify project management, saving you time and reducing complexity."
+      },
+      {
+        "icon": "✅",
+        "title": "Certified Quality",
+        "description": "We adhere to the highest national and international standards, including ISO, EGAT, MEA, and PEA. to guarantee maximum performance and unwavering reliability."
+      },
+      {
+        "icon": "⭐",
+        "title": "Over 30 Years of Proven Expertise",
+        "description": "Forged from the synergy of industry pioneers, our experience makes us more than a supplier—we are your strategic partner. We provide expert technical consultation to solve your challenges and drive the future of energy."
+      }
+    ]
+  },
+  "mainProduct": {
+    "title": "Our Product Groups",
+    "products": [
+      {
+        "category": "ground",
+        "image": "/images/category/1.webp",
+        "title": "Ground System",
+        "description": "A complete range of high-conductivity components for robust and reliable electrical grounding."
+      },
+      {
+        "category": "hardware",
+        "image": "/images/category/2.webp",
+        "title": "LV & HV Hardware",
+        "description": "A comprehensive selection of hardware for both low and high voltage overhead power line applications."
+      },
+      {
+        "category": "lorfah",
+        "image": "/images/category/3.webp",
+        "title": "Lightning Protection",
+        "description": "Engineered solutions to safeguard structures, assets, and personnel from the effects of lightning strikes."
+      },
+      {
+        "category": "fire",
+        "image": "/images/category/4.webp",
+        "title": "Street Lighting",
+        "description": "Efficient and durable lighting fixtures, poles, and hardware for public and private roadway illumination."
+      },
+      {
+        "category": "tor",
+        "image": "/images/category/5.webp",
+        "title": "Conduit Fittings",
+        "description": "Durable and secure fittings for all types of electrical conduit and cable management systems."
+      },
+      {
+        "category": "call",
+        "image": "/images/category/6.webp",
+        "title": "Telecom Hardware",
+        "description": "A full range of support components for the installation and maintenance of telecommunication lines."
+      },
+      {
+        "category": "lighting",
+        "image": "/images/category/7.webp",
+        "title": "Electrical Connectors",
+        "description": "Precision-engineered connectors designed for safe, efficient, and lasting electrical connections."
+      },
+      {
+        "category": "Underground",
+        "image": "/images/category/8.webp",
+        "title": "Underground Electrical Equipment",
+        "description": "Specialized components designed for the safety, reliability, and longevity of underground power distribution networks."
+      }
+    ]
+  },
+  "contactSale": {
+    "heading": "Ready to Power Your Next Project?",
+    "contactButton": "Contact Sales",
+    "downloadButton": "View Catalog"
+  },
+  "about": {
+    "title": "About Us",
+    "storyTitle": "Our Story | From a Solid Foundation to Future Growth",
+    "storyDesc": "Iampong Development Co., Ltd. was established in 2013 through a strategic merger of two industry powerhouses: Iampong Electric, with its 30-year legacy in the electrical sector, and A.P. Electroplate Co., Ltd., a renowned specialist in high and low voltage equipment.",
+    "storyDesc2": "This union forged the AP brand, combining decades of proven experience with deep technical expertise. Today, AP stands as a trusted, single-source manufacturer and distributor of comprehensive electrical solutions, engineered to meet the demands of the modern world.",
+    "visionTitle": "Our Vision & Mission",
+    "visionName": "Our Vision",
+    "vision": "To be the definitive leader in end-to-end high and low voltage electrical solutions.",
+    "missionName": "Our Mission",
+    "mission": "To provide complete, high-quality electrical solutions backed by excellent service, leveraging modern innovation to create unwavering confidence and the best possible value for every client.",
+    "partnerTitle": "We Are The Reliable Partner",
+    "partnerDesc": "Comprehensive",
+    "comprehensive": "We are your true one-stop solution. Our extensive portfolio, covering 8 major product categories, meets all your project needs from a single, trusted source.",
+    "modernName": "Up-to-Date",
+    "modern": "We are committed to continuous innovation, constantly developing new technologies to provide the most advanced and effective solutions for the new era of energy.",
+    "reliableName": "Reliable",
+    "reliable": "We deliver high-performance, certified products backed by a team of dedicated professionals who ensure quality and on-time delivery, every time.",
+    "valueName": "Pragmatic",
+    "value": "We engineer cost-effective solutions tailored to your budget without compromising on performance, ensuring every decision is a sound investment.",
+    "friendlyName": "Approachable",
+    "friendly": "Our team is easy to work with. We provide clear, straightforward advice and sincere consultation, making complex topics simple and understandable.",
+    "trustTitle": "Your Assurance of Quality and Reliability",
+    "factoryTitle": "Our People & Production | The Heart of Our Success",
+    "factoryDesc": "At the core of our success is the synergy between our advanced manufacturing facility and our highly skilled team. This powerful combination allows us to deliver superior product quality and exceptional service to our clients."
+  },
+  "projects": {
+    "title": "Our Work",
+    "successText": "Proven Success Through Real-World Projects",
+    "filterLabel": "Filter by:",
+    "categories": [
+      {
+        "value": "PEA",
+        "label": "Provincial Electricity Authority (PEA)"
+      },
+      {
+        "value": "MEA",
+        "label": "Metropolitan Electricity Authority (MEA)"
+      },
+      {
+        "value": "EGAT",
+        "label": "Electricity Generating Authority of Thailand (EGAT)"
+      },
+      { "value": "Government", "label": "Government Projects" },
+      { "value": "Industrial", "label": "Industrial Projects" },
+      { "value": "115kV", "label": "115kV System Projects" }
+    ],
+    "noProjectsText": "No projects found in this category.",
+    "loadMoreBtn": "View All Projects"
+  },
+  "articles": {
+    "title": "AP Insights",
+    "readMore": "Read more"
+  },
+  "joinUs": {
+    "title": "Join Us",
+    "subtitle": "BE A PART OF OUR TEAM",
+    "applicationLink": "Submit your application"
+  },
+  "contactUs": {
+    "title": "Contact Us",
+    "formTitle": "Let Us Be a Part of Your Success",
+    "emailLabel": "Email",
+    "phoneLabel": "Phone number",
+    "messageLabel": "Message",
+    "submitButton": "Submit"
+  },
+  "footer": {
+    "copyright": "© 2024 Iampongpattana Co., Ltd. All rights reserved.",
+    "socialMediaTitle": "Follow us on social media"
+  }
+}

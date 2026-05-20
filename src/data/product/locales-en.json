@@ -1,0 +1,16 @@
+{
+  "productsTitle": "Products",
+  "backButton": "← Back to products",
+  "searchPlaceholder": "Search by name or ID...",
+  "allCategories": "All Categories",
+  "categories": {
+    "Ground-System": "Ground System", 
+    "Lightning-Protection-System": "Lightning Protection System",
+    "Conduit-Fittings": "Conduit Fittings",
+    "Electrical-Connectors": "Electrical Connectors",
+    "Low-High-Voltage-Hardware": "Low & High Voltage Hardware",
+    "Street-Lighting": "Street Lighting",
+    "Telecom-Hardware": "Telecom Hardware",
+    "Underground-Electrical-Equipment": "Underground Electrical Equipment"
+  }
+}

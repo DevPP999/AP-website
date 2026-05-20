@@ -1,0 +1,1439 @@
+[
+  {
+    "id": "GR1-11030",
+    "name": "Copper Electrolyzed Plating Ground Rod (Lock Screw Type)",
+    "image": "/images/img/Grounding/1.webp",
+    "specImage": "/images/img/1-1/1.webp",
+    "category": "Ground-System"
+  },
+  {
+    "id": "GR2-11100",
+    "name": "Copper Electrolyzed Plating Ground Rod (Clamp Type)",
+    "image": "/images/img/Grounding/2.webp",
+    "specImage": "/images/img/1-1/2.webp",
+    "category": "Ground-System"
+  },
+  {
+    "id": "GR2-122401",
+    "name": "Copper Electrolyzed plating Ground Rod (Thread Both End Type)",
+    "image": "/images/img/Grounding/3.webp",
+    "specImage": "/images/img/1-1/3.webp",
+    "category": "Ground-System"
+  },
+  {
+    "id": "GR2-341801",
+    "name": "Copper Clad Ground Rod ",
+    "image": "/images/img/Grounding/4.webp",
+    "specImage": "/images/img/1-1/4.webp",
+    "category": "Ground-System"
+  },
+  {
+    "id": "GR3-58180",
+    "name": "99% Copper Ground Rod",
+    "summary": "",
+    "image": "/images/img/Grounding/5.webp",
+    "specImage": "/images/img/1-1/5.webp",
+    "category": "Ground-System"
+  },
+  {
+    "id": "GRC-1200",
+    "name": "Ground Rod Clamp ",
+    "summary": "",
+    "image": "/images/img/Grounding/6.webp",
+    "specImage": "/images/img/1-1/6.webp",
+    "category": "Ground-System"
+  },
+  {
+    "id": "CSS-035",
+    "name": "Two Screw U-Clamp",
+    "image": "/images/img/Grounding/7.webp",
+    "specImage": "/images/img/1-1/7.webp",
+    "category": "Ground-System"
+  },
+  {
+    "id": "TLS-035",
+    "name": "Terminal Lug, Socket Type ",
+    "image": "/images/img/Grounding/8.webp",
+    "specImage": "/images/img/1-1/8.webp",
+    "category": "Ground-System"
+  },
+  {
+    "id": "GC1-0120",
+    "name": "Ground Clamp One Hole ",
+    "image": "/images/img/Grounding/9.webp",
+    "specImage": "/images/img/1-1/9.webp",
+    "category": "Ground-System"
+  },
+  {
+    "id": "GCGM3-0120",
+    "name": "Ground Clamp GM-3 ",
+    "image": "/images/img/Grounding/10.webp",
+    "specImage": "/images/img/1-1/10.webp",
+    "category": "Ground-System"
+  },
+  {
+    "id": "CGGPL-0120",
+    "name": "Ground Clamp GPL-6 ",
+    "image": "/images/img/Grounding/11.webp",
+    "specImage": "/images/img/1-1/11.webp",
+    "category": "Ground-System"
+  },
+  {
+    "id": "GTBA-0120",
+    "name": "Ground Test Box Aluminium ",
+    "image": "/images/img/Grounding/12.webp",
+    "specImage": "/images/img/1-1/12.webp",
+    "category": "Ground-System"
+  },
+  {
+    "id": "GTBP-0120",
+    "name": "Ground Test Box PVC  ",
+    "image": "/images/img/Grounding/13.webp",
+    "specImage": "/images/img/1-1/13.webp",
+    "category": "Ground-System"
+  },
+  {
+    "id": "CGR-1058",
+    "name": "Coupling for Thread Ground Rod ",
+    "image": "/images/img/Grounding/14.webp",
+    "specImage": "/images/img/1-1/14.webp",
+    "category": "Ground-System"
+  },
+
+  {
+    "id": "DHGR-0058",
+    "name": "Driving Head for Thread Ground Rod ",
+    "image": "/images/img/Grounding/15.webp",
+    "specImage": "/images/img/1-1/15.webp",
+    "category": "Ground-System"
+  },
+  {
+    "id": "TGR-1058",
+    "name": "ทิปนำตอกลงดินสำหรับกราวด์รุ่นเกลียว ",
+    "image": "/images/img/Grounding/16.webp",
+    "specImage": "/images/img/1-1/16.webp",
+    "category": "Ground-System"
+  },
+  {
+    "id": "GTW-210",
+    "name": "Tip for Thread Ground Rod ",
+    "image": "/images/img/Grounding/17.webp",
+    "specImage": "/images/img/1-1/17.webp",
+    "category": "Ground-System"
+  },
+  {
+    "id": "TPR1-5803",
+    "name": "Copper Air Rod Elevetion Air Rod",
+    "image": "/images/img/Lightning/1.webp",
+    "specImage": "/images/img/2-1/1.webp",
+    "category": "Lightning-Protection-System"
+  },
+  {
+    "id": "TPR1-3403",
+    "name": "Copper Air Rod Taper Pointed Air Rod",
+    "summary": "",
+    "image": "/images/img/Lightning/3.webp",
+    "specImage": "/images/img/2-1/1.webp",
+    "category": "Lightning-Protection-System"
+  },
+  {
+    "id": "TPR2-5803",
+    "name": "Copper Electrolyzed Air Rod Elevetion Air Rod",
+    "image": "/images/img/Lightning/2.webp",
+    "specImage": "/images/img/2-1/1.webp",
+    "category": "Lightning-Protection-System"
+  },
+  {
+    "id": "TPR2-3403",
+    "name": "Copper Electrolyzed Air Rod Taper Pointed Air Rod",
+    "image": "/images/img/Lightning/4.webp",
+    "specImage": "/images/img/2-1/1.webp",
+    "category": "Lightning-Protection-System"
+  },
+  {
+    "id": "MTR-5800",
+    "name": "Multi Point Air Terminal",
+    "image": "/images/img/Lightning/5.webp",
+    "specImage": "/images/img/2-1/2.webp",
+    "category": "Lightning-Protection-System"
+  },
+  {
+    "id": "FLS-058",
+    "name": " Air Terminal Saddle Flat Saddle",
+    "image": "/images/img/Lightning/6.webp",
+    "specImage": "/images/img/2-1/3.webp",
+    "category": "Lightning-Protection-System"
+  },
+  {
+    "id": "RIS-058",
+    "name": "Air Terminal Saddle Ridge Saddle",
+    "summary": "",
+    "specification": {
+      "Rod Size": "5/8 - 3/4 นิ้ว",
+      "Cable Size": "25 - 120",
+      "Price": "360.00  ฿"
+    },
+    "image": "/images/img/Lightning/7.webp",
+    "specImage": "/images/img/2-1/4.webp",
+    "category": "Lightning-Protection-System"
+  },
+  {
+    "id": "FOS-058",
+    "name": "Air Terminal Saddle Floor Saddle ",
+    "image": "/images/img/Lightning/8.webp",
+    "specImage": "/images/img/2-1/5.webp",
+    "category": "Lightning-Protection-System"
+  },
+  {
+    "id": "CWS-058",
+    "name": "Air Terminal Saddle Cross Wall Saddle",
+    "image": "/images/img/Lightning/9.webp",
+    "specImage": "/images/img/2-1/6.webp",
+    "category": "Lightning-Protection-System"
+  },
+  {
+    "id": "DOS-058",
+    "name": "Air Terminal Saddle Double Base Saddle ",
+    "image": "/images/img/Lightning/10.webp",
+    "specImage": "/images/img/2-1/7.webp",
+    "category": "Lightning-Protection-System"
+  },
+  {
+    "id": "DFS-058",
+    "name": " Air Terminal Saddle Cross Floor Saddle ",
+    "image": "/images/img/Lightning/11.webp",
+    "specImage": "/images/img/2-1/8.webp",
+    "category": "Lightning-Protection-System"
+  },
+  {
+    "id": "ROS-058",
+    "name": "Air Terminal Saddle Round Saddle",
+    "image": "/images/img/Lightning/12.webp",
+    "specImage": "/images/img/2-1/9.webp",
+    "category": "Lightning-Protection-System"
+  },
+
+  {
+    "id": "ADS-058",
+    "name": "Air Terminal Saddle Adjustable Saddle ",
+    "image": "/images/img/Lightning/13.webp",
+    "specImage": "/images/img/2-1/10.webp",
+    "category": "Lightning-Protection-System"
+  },
+
+  {
+    "id": "ROS-158",
+    "name": " Air Terminal Saddle Light Duty Saddle ",
+    "image": "/images/img/Lightning/14.webp",
+    "specImage": "/images/img/2-1/11.webp",
+    "category": "Lightning-Protection-System"
+  },
+  {
+    "id": "ADS-158",
+    "name": " Air Terminal Saddle Adjustable Saddle",
+    "image": "/images/img/Lightning/15.webp",
+    "specImage": "/images/img/2-1/12.webp",
+    "category": "Lightning-Protection-System"
+  },
+  {
+    "id": "CAS-035",
+    "name": " Cable Saddle Clamp",
+    "image": "/images/img/Lightning/16.webp",
+    "specImage": "/images/img/2-1/13.webp",
+    "category": "Lightning-Protection-System"
+  },
+  {
+    "id": "SCC-070",
+    "name": " Square Cable Saddle Clamp ",
+    "image": "/images/img/Lightning/17.webp",
+    "specImage": "/images/img/2-1/14.webp",
+    "category": "Lightning-Protection-System"
+  },
+  {
+    "id": "TEC-070",
+    "name": " T-Clampfor Saddle ",
+    "image": "/images/img/Lightning/18.webp",
+    "specImage": "/images/img/2-1/15.webp",
+    "category": "Lightning-Protection-System"
+  },
+  {
+    "id": "GWSC-0120",
+    "name": " Ground Wire Support Clamp ",
+    "image": "/images/img/Lightning/19.webp",
+    "specImage": "/images/img/2-1/16.webp",
+    "category": "Lightning-Protection-System"
+  },
+  {
+    "id": "1HC-070",
+    "name": " One-Hole Cable Clip ",
+    "image": "/images/img/Lightning/20.webp",
+    "specImage": "/images/img/2-1/17.webp",
+    "category": "Lightning-Protection-System"
+  },
+  {
+    "id": "TAS-0253",
+    "name": " Tape Saddle Clamp",
+    "image": "/images/img/Lightning/21.webp",
+    "specImage": "/images/img/2-1/18.webp",
+    "category": "Lightning-Protection-System"
+  },
+  {
+    "id": "SQC-0253",
+    "name": " Square Tape Saddle Clamp ",
+    "image": "/images/img/Lightning/20.webp",
+    "specImage": "/images/img/2-1/19.webp",
+    "category": "Lightning-Protection-System"
+  },
+  {
+    "id": "GWSC-0253",
+    "name": " Ground Tape Support Clamp ",
+    "image": "/images/img/Lightning/21.webp",
+    "specImage": "/images/img/2-1/20.webp",
+    "category": "Lightning-Protection-System"
+  },
+
+  {
+    "id": "LB-0012",
+    "name": " Conduit LB ",
+    "image": "/images/img/Conduit/1.webp",
+    "specImage": "/images/img/3-1/1.webp",
+    "category": "Conduit-Fittings"
+  },
+  {
+    "id": "LL-0012",
+    "name": " Conduit LL ",
+    "summary": "",
+    "image": "/images/img/Conduit/2.webp",
+    "specImage": "/images/img/3-1/1.webp",
+    "category": "Conduit-Fittings"
+  },
+  {
+    "id": "LR-0012",
+    "name": " Conduit LR ",
+    "image": "/images/img/Conduit/3.webp",
+    "specImage": "/images/img/3-1/1.webp",
+    "category": "Conduit-Fittings"
+  },
+
+  {
+    "id": "OT-0012",
+    "name": " Conduit OT ",
+    "image": "/images/img/Conduit/4.webp",
+    "specImage": "/images/img/3-1/1.webp",
+    "category": "Conduit-Fittings"
+  },
+
+  {
+    "id": "CB-1012",
+    "name": " Rain Tight Junction Box One - Way ",
+    "image": "/images/img/Conduit/5.webp",
+    "specImage": "/images/img/3-1/2.webp",
+    "category": "Conduit-Fittings"
+  },
+
+  {
+    "id": "CB-2012",
+    "name": " Rain Tight Junction Box Two - Way  ",
+    "summary": "",
+    "image": "/images/img/Conduit/6.webp",
+    "specImage": "/images/img/3-1/2.webp",
+    "category": "Conduit-Fittings"
+  },
+
+  {
+    "id": "CB-5012",
+    "name": "Rain Tight Junction Box Two Two - Way (Through) ",
+    "image": "/images/img/Conduit/7.webp",
+    "specImage": "/images/img/3-1/2.webp",
+    "category": "Conduit-Fittings"
+  },
+
+  {
+    "id": "CB-3012",
+    "name": "Rain Tight Junction Box Two  Three - Way",
+    "image": "/images/img/Conduit/8.webp",
+    "specImage": "/images/img/3-1/2.webp",
+    "category": "Conduit-Fittings"
+  },
+
+  {
+    "id": "CB-4012",
+    "name": "Rain Tight Junction Box Two  Four - Way ",
+    "image": "/images/img/Conduit/9.webp",
+    "specImage": "/images/img/3-1/2.webp",
+    "category": "Conduit-Fittings"
+  },
+
+  {
+    "id": "FB-0012",
+    "name": " FS Box 2x4 One Way ",
+    "image": "/images/img/Conduit/10.webp",
+    "specImage": "/images/img/3-1/3.webp",
+    "category": "Conduit-Fittings"
+  },
+
+  {
+    "id": "FSC-0012",
+    "name": "FSC Box 2x4 Two - way",
+    "image": "/images/img/Conduit/11.webp",
+    "specImage": "/images/img/3-1/3.webp",
+    "category": "Conduit-Fittings"
+  },
+
+  {
+    "id": "FS-1012",
+    "name": "FS Box 4x4 One - Way",
+    "image": "/images/img/Conduit/12.webp",
+    "specImage": "/images/img/3-1/3.webp",
+    "category": "Conduit-Fittings"
+  },
+
+  {
+    "id": "FSC-1012",
+    "name": "FSC Box 4x4 Two - Way",
+    "image": "/images/img/Conduit/13.webp",
+    "specImage": "/images/img/3-1/3.webp",
+    "category": "Conduit-Fittings"
+  },
+
+  {
+    "id": "ETC-0012",
+    "name": "Entrance Cap",
+    "image": "/images/img/Conduit/14.webp",
+    "specImage": "/images/img/3-1/4.webp",
+    "category": "Conduit-Fittings"
+  },
+
+  {
+    "id": "HDB-001",
+    "name": "Handy Box ",
+    "image": "/images/img/Conduit/15.webp",
+    "specImage": "/images/img/3-1/5.webp",
+    "category": "Conduit-Fittings"
+  },
+
+  {
+    "id": "SQB-001",
+    "name": "Square Box",
+    "image": "/images/img/Conduit/16.webp",
+    "specImage": "/images/img/3-1/6.webp",
+    "category": "Conduit-Fittings"
+  },
+
+  {
+    "id": "OCB-001",
+    "name": "Octagon Box",
+    "image": "/images/img/Conduit/17.webp",
+    "specImage": "/images/img/3-1/7.webp",
+    "category": "Conduit-Fittings"
+  },
+
+  {
+    "id": "HDBC-1001",
+    "name": "Handy 2 x 4 Cover",
+    "image": "/images/img/Conduit/18.webp",
+    "specImage": "/images/img/3-1/8.webp",
+    "category": "Conduit-Fittings"
+  },
+
+  {
+    "id": "SQCB",
+    "name": "Square 4 x 4 Cover ",
+    "image": "/images/img/Conduit/19.webp",
+    "specImage": "/images/img/3-1/9.webp",
+    "category": "Conduit-Fittings"
+  },
+  {
+    "id": "OCBC",
+    "name": "Octagon Cover  ",
+    "image": "/images/img/Conduit/20.webp",
+    "specImage": "/images/img/3-1/10.webp",
+    "category": "Conduit-Fittings"
+  },
+
+  {
+    "id": "ESC-0012",
+    "name": "EMT Conduit   ",
+    "image": "/images/img/Conduit/21.webp",
+    "specImage": "/images/img/3-1/11.webp",
+    "category": "Conduit-Fittings"
+  },
+
+  {
+    "id": "ISC-0012",
+    "name": "IMC Conduit",
+    "image": "/images/img/Conduit/22.webp",
+    "specImage": "/images/img/3-1/11.webp",
+    "category": "Conduit-Fittings"
+  },
+
+  {
+    "id": "EEC-0012",
+    "name": "EMT Elbow ",
+    "image": "/images/img/Conduit/23.webp",
+    "specImage": "/images/img/3-1/11.webp",
+    "category": "Conduit-Fittings"
+  },
+
+  {
+    "id": "IEC-0012",
+    "name": "IMC Elbow ",
+    "image": "/images/img/Conduit/24.webp",
+    "specImage": "/images/img/3-1/11.webp",
+    "category": "Conduit-Fittings"
+  },
+
+  {
+    "id": "EMT-0012",
+    "name": "EMT Bender ",
+    "image": "/images/img/Conduit/25.webp",
+    "specImage": "/images/img/3-1/12.webp",
+    "category": "Conduit-Fittings"
+  },
+
+  {
+    "id": "IMC-1234",
+    "name": "IMC Hickey ",
+    "image": "/images/img/Conduit/26.webp",
+    "specImage": "/images/img/3-1/12.webp",
+    "category": "Conduit-Fittings"
+  },
+
+  {
+    "id": "SFC-0012",
+    "name": "Flexible Conduit ",
+    "image": "/images/img/Conduit/27.webp",
+    "specImage": "/images/img/3-1/13.webp",
+    "category": "Conduit-Fittings"
+  },
+
+  {
+    "id": "RFC-0012",
+    "name": "Rain Tight Flexible Conduit  ",
+    "image": "/images/img/Conduit/28.webp",
+    "specImage": "/images/img/3-1/13.webp",
+    "category": "Conduit-Fittings"
+  },
+
+  {
+    "id": "CNF-2012",
+    "name": "Flexible Conduit Connector ",
+    "image": "/images/img/Conduit/29.webp",
+    "specImage": "/images/img/3-1/4.webp",
+    "category": "Conduit-Fittings"
+  },
+
+  {
+    "id": "CNF-1012",
+    "name": "Rain Tight Flexible connector ",
+    "image": "/images/img/Conduit/30.webp",
+    "specImage": "/images/img/3-1/14.webp",
+    "category": "Conduit-Fittings"
+  },
+
+  {
+    "id": "CNE-2012",
+    "name": "EMT Connector ",
+    "image": "/images/img/Conduit/31.webp",
+    "specImage": "/images/img/3-1/15.webp",
+    "category": "Conduit-Fittings"
+  },
+
+  {
+    "id": "CPE-0012",
+    "name": "EMT Coupling ",
+    "summary": "",
+    "image": "/images/img/Conduit/32.webp",
+    "specImage": "/images/img/3-1/15.webp",
+    "category": "Conduit-Fittings"
+  },
+
+  {
+    "id": "CNE-1012",
+    "name": "Rain Tight EMT Connector  ",
+    "summary": "",
+    "image": "/images/img/Conduit/33.webp",
+    "specImage": "/images/img/3-1/15.webp",
+    "category": "Conduit-Fittings"
+  },
+
+  {
+    "id": "CPE-1012",
+    "name": " Rain Tight EMT Coupling",
+    "image": "/images/img/Conduit/34.webp",
+    "specImage": "/images/img/3-1/15.webp",
+    "category": "Conduit-Fittings"
+  },
+
+  {
+    "id": "CPI-0012",
+    "name": " IMC Coupling  ",
+    "image": "/images/img/Conduit/35.webp",
+    "specImage": "/images/img/3-1/16.webp",
+    "category": "Conduit-Fittings"
+  },
+
+  {
+    "id": "BUS-0012",
+    "name": "Bushing",
+    "image": "/images/img/Conduit/36.webp",
+    "specImage": "/images/img/3-1/16.webp",
+    "category": "Conduit-Fittings"
+  },
+
+  {
+    "id": "LKN-0012",
+    "name": "Locknut",
+    "image": "/images/img/Conduit/37.webp",
+    "specImage": "/images/img/3-1/16.webp",
+    "category": "Conduit-Fittings"
+  },
+
+  {
+    "id": "CES-0012",
+    "name": " Erickson Coupling ",
+    "image": "/images/img/Conduit/38.webp",
+    "specImage": "/images/img/3-1/16.webp",
+    "category": "Conduit-Fittings"
+  },
+
+  {
+    "id": "NMC-0012",
+    "name": "NM Connector",
+    "image": "/images/img/Conduit/39.webp",
+    "specImage": "/images/img/3-1/16.webp",
+    "category": "Conduit-Fittings"
+  },
+
+  {
+    "id": "CCE-0012",
+    "name": " Conduit Clips for channel EMT,IMC",
+    "image": "/images/img/Conduit/40.webp",
+    "specImage": "/images/img/3-1/17.webp",
+    "category": "Conduit-Fittings"
+  },
+
+  {
+    "id": "SRE-1012",
+    "name": " Strap (1SR) EMT,IMC ",
+    "image": "/images/img/Conduit/41.webp",
+    "specImage": "/images/img/3-1/17.webp",
+    "category": "Conduit-Fittings"
+  },
+
+  {
+    "id": "SRE-2012",
+    "name": " Strap (2SR) EMT,IMC ",
+    "image": "/images/img/Conduit/42.webp",
+    "specImage": "/images/img/3-1/17.webp",
+    "category": "Conduit-Fittings"
+  },
+
+  {
+    "id": "TR1-14010",
+    "name": " Thread Rod ",
+    "image": "/images/img/Conduit/43.webp",
+    "specImage": "/images/img/3-1/18.webp",
+    "category": "Conduit-Fittings"
+  },
+
+  {
+    "id": "TRC-14000",
+    "name": " Thread Rod Coupling ",
+    "image": "/images/img/Conduit/44.webp",
+    "specImage": "/images/img/3-1/19.webp",
+    "category": "Conduit-Fittings"
+  },
+
+  {
+    "id": "TRN-14000",
+    "name": " Thread Rod Nut ",
+    "image": "/images/img/Conduit/45.webp",
+    "specImage": "/images/img/3-1/20.webp",
+    "category": "Conduit-Fittings"
+  },
+
+  {
+    "id": "CKJ-101",
+    "name": " แคล้ป์ฟันจระเข้  ",
+    "image": "/images/img/Conduit/46.webp",
+    "specImage": "/images/img/3-1/21.webp",
+    "category": "Conduit-Fittings"
+  },
+
+  {
+    "id": "CWD-0012",
+    "name": " แคล้มป์วงเดือน  ",
+    "image": "/images/img/Conduit/47.webp",
+    "specImage": "/images/img/3-1/22.webp",
+    "category": "Conduit-Fittings"
+  },
+
+  {
+    "id": "CH-0034",
+    "name": " Clevis Hanger  ",
+    "image": "/images/img/Conduit/48.webp",
+    "specImage": "/images/img/3-1/23.webp",
+    "category": "Conduit-Fittings"
+  },
+
+  {
+    "id": "UB-0012",
+    "name": " U-Bolt ",
+    "image": "/images/img/Conduit/49.webp",
+    "specImage": "/images/img/3-1/24.webp",
+    "category": "Conduit-Fittings"
+  },
+
+  {
+    "id": "CDE-0035",
+    "name": " Dead End Connector ",
+    "image": "/images/img/Electrical/1.webp",
+    "specImage": "/images/img/4-1/1.webp",
+    "category": "Electrical-Connectors"
+  },
+
+  {
+    "id": "CDE-1035",
+    "name": " Dead End Connector MEA,PEA ",
+    "image": "/images/img/Electrical/2.webp",
+    "specImage": "/images/img/4-1/2.webp",
+    "category": "Electrical-Connectors"
+  },
+
+  {
+    "id": "PGBY-016",
+    "name": " PG Clamp Connector Bolt Type ",
+    "image": "/images/img/Electrical/3.webp",
+    "specImage": "/images/img/4-1/3.webp",
+    "category": "Electrical-Connectors"
+  },
+
+  {
+    "id": "PGC-12070",
+    "name": " PG  Connector Bolt Type (MEA,PEA)  ",
+    "image": "/images/img/Electrical/4.webp",
+    "specImage": "/images/img/4-1/4.webp",
+    "category": "Electrical-Connectors"
+  },
+
+  {
+    "id": "HCC-01610",
+    "name": " AL Compression Connector H-TYPE ",
+    "image": "/images/img/Electrical/5.webp",
+    "specImage": "/images/img/4-1/5.webp",
+    "category": "Electrical-Connectors"
+  },
+
+  {
+    "id": "HLC-0050",
+    "name": " Hot Line Clamp",
+    "image": "/images/img/Electrical/6.webp",
+    "specImage": "/images/img/4-1/6.webp",
+    "category": "Electrical-Connectors"
+  },
+
+  {
+    "id": "BAC-0050",
+    "name": "Bail Clamp / Stirrup Clamp",
+    "image": "/images/img/Electrical/7.webp",
+    "specImage": "/images/img/4-1/7.webp",
+    "category": "Electrical-Connectors"
+  },
+
+  {
+    "id": "CLSS-001",
+    "name": "Clamp,Strain,Straight",
+    "image": "/images/img/Electrical/8.webp",
+    "specImage": "/images/img/4-1/8.webp",
+    "category": "Electrical-Connectors"
+  },
+
+  {
+    "id": "CLS-001",
+    "name": "Clamp,Strain with Clampping Keeper",
+    "image": "/images/img/Electrical/9.webp",
+    "specImage": "/images/img/4-1/9.webp",
+    "category": "Electrical-Connectors"
+  },
+
+  {
+    "id": "ATL-2025",
+    "name": "Aluminium Compression Terminal Lug (NEMA HOLE) ",
+    "image": "/images/img/Electrical/10.webp",
+    "specImage": "/images/img/4-1/10.webp",
+    "category": "Electrical-Connectors"
+  },
+
+  {
+    "id": "CSF-025",
+    "name": "Compression Slaeeve for Splicing",
+    "image": "/images/img/Electrical/11.webp",
+    "specImage": "/images/img/4-1/11.webp",
+    "category": "Electrical-Connectors"
+  },
+
+  {
+    "id": "MBS-12005",
+    "name": " Square-Head Machine Bolt ",
+    "image": "/images/img/Hardware/1.webp",
+    "specImage": "/images/img/5-1/1.webp",
+    "category": "Low-High-Voltage-Hardware"
+  },
+
+  {
+    "id": "MBH-01622",
+    "name": " Hexagon-Head Machine Bolt",
+    "image": "/images/img/Hardware/2.webp",
+    "specImage": "/images/img/5-1/2.webp",
+    "category": "Low-High-Voltage-Hardware"
+  },
+
+  {
+    "id": "MBK-12005",
+    "name": " Hexagon-Head Bolt ",
+    "image": "/images/img/Hardware/3.webp",
+    "specImage": "/images/img/5-1/3.webp",
+    "category": "Low-High-Voltage-Hardware"
+  },
+
+  {
+    "id": "SQN-0012",
+    "name": " Square Nut ",
+    "image": "/images/img/Hardware/4.webp",
+    "specImage": "/images/img/5-1/4.webp",
+    "category": "Low-High-Voltage-Hardware"
+  },
+
+  {
+    "id": "HXH-0038",
+    "name": " Hexagon Nut ",
+    "image": "/images/img/Hardware/5.webp",
+    "specImage": "/images/img/5-1/5.webp",
+    "category": "Low-High-Voltage-Hardware"
+  },
+  {
+    "id": "SQW-00012",
+    "name": " Square Washer ",
+    "image": "/images/img/Hardware/6.webp",
+    "specImage": "/images/img/5-1/6.webp",
+    "category": "Low-High-Voltage-Hardware"
+  },
+
+  {
+    "id": "CSQW-100581",
+    "name": " Curve Square Washer",
+    "image": "/images/img/Hardware/7.webp",
+    "specImage": "/images/img/5-1/7.webp",
+    "category": "Low-High-Voltage-Hardware"
+  },
+  {
+    "id": "ROW-00038",
+    "name": " Round Washer ",
+    "image": "/images/img/Hardware/8.webp",
+    "specImage": "/images/img/5-1/8.webp",
+    "category": "Low-High-Voltage-Hardware"
+  },
+
+  {
+    "id": "LOW-00038",
+    "name": "Spring Washer",
+    "image": "/images/img/Hardware/9.webp",
+    "specImage": "/images/img/5-1/9.webp",
+    "category": "Low-High-Voltage-Hardware"
+  },
+
+  {
+    "id": "DEB-01606",
+    "name": " Double Arming Eye Bolt Forged Type",
+    "image": "/images/img/Hardware/10.webp",
+    "specImage": "/images/img/5-1/10.webp",
+    "category": "Low-High-Voltage-Hardware"
+  },
+
+  {
+    "id": "REB-58008",
+    "name": "Eye Bolt Welded Type ",
+    "image": "/images/img/Hardware/11.webp",
+    "specImage": "/images/img/5-1/10.webp",
+    "category": "Low-High-Voltage-Hardware"
+  },
+
+  {
+    "id": "DEBO-01606",
+    "name": "Bolt,Oval Eye",
+    "image": "/images/img/Hardware/12.webp",
+    "specImage": "/images/img/5-1/11.webp",
+    "category": "Low-High-Voltage-Hardware"
+  },
+
+  {
+    "id": "OBF-01610",
+    "name": " Bolt,Double Arming, Oval Eye ",
+    "image": "/images/img/Hardware/13.webp",
+    "specImage": "/images/img/5-1/11.webp",
+    "category": "Low-High-Voltage-Hardware"
+  },
+
+  {
+    "id": "ATE-01606",
+    "name": "Angle Thimble Eye Bolt",
+    "image": "/images/img/Hardware/14.webp",
+    "specImage": "/images/img/5-1/12.webp",
+    "category": "Low-High-Voltage-Hardware"
+  },
+
+  {
+    "id": "STB-58006",
+    "name": "Straight Thimble Eye Bolt ",
+    "image": "/images/img/Hardware/15.webp",
+    "specImage": "/images/img/5-1/12.webp",
+    "category": "Low-High-Voltage-Hardware"
+  },
+
+  {
+    "id": "DAB-01612",
+    "name": " Double Arming Bolt ",
+    "image": "/images/img/Hardware/16.webp",
+    "specImage": "/images/img/5-1/13.webp",
+    "category": "Low-High-Voltage-Hardware"
+  },
+  {
+    "id": "ARN-58001",
+    "name": " Anchor Rod (Welded Type)",
+    "image": "/images/img/Hardware/17.webp",
+    "specImage": "/images/img/5-1/14.webp",
+    "category": "Low-High-Voltage-Hardware"
+  },
+
+  {
+    "id": "TAR-02025",
+    "name": " Thimble Anchor Rod (Forged Type)  ",
+    "image": "/images/img/Hardware/19.webp",
+    "specImage": "/images/img/5-1/15.webp",
+    "category": "Low-High-Voltage-Hardware"
+  },
+
+  {
+    "id": "APL-58008",
+    "name": "Anchor Plate ",
+    "image": "/images/img/Hardware/20.webp",
+    "specImage": "/images/img/5-1/16.webp",
+    "category": "Low-High-Voltage-Hardware"
+  },
+
+  {
+    "id": "APL-58011",
+    "name": "Anchor Plate 5/8 ",
+    "image": "/images/img/Hardware/21.webp",
+    "specImage": "/images/img/5-1/17.webp",
+    "category": "Low-High-Voltage-Hardware"
+  },
+
+  {
+    "id": "CSU-008",
+    "name": " Clamp Single U-bolt M8",
+    "image": "/images/img/Hardware/22.webp",
+    "specImage": "/images/img/5-1/18.webp",
+    "category": "Low-High-Voltage-Hardware"
+  },
+
+  {
+    "id": "CDU-016",
+    "name": "Clamp Double Eye Bolt M16",
+    "image": "/images/img/Hardware/23.webp",
+    "specImage": "/images/img/5-1/19.webp",
+    "category": "Low-High-Voltage-Hardware"
+  },
+
+  {
+    "id": "EYN-016",
+    "name": "Eye Nut  M16 ",
+    "image": "/images/img/Hardware/24.webp",
+    "specImage": "/images/img/5-1/20.webp",
+    "category": "Low-High-Voltage-Hardware"
+  },
+
+  {
+    "id": "ACSK-001",
+    "name": "Anchor Shackle",
+    "image": "/images/img/Hardware/25.webp",
+    "specImage": "/images/img/5-1/21.webp",
+    "category": "Low-High-Voltage-Hardware"
+  },
+
+  {
+    "id": "ANG-030",
+    "name": "Angle Guy Attachment ",
+    "image": "/images/img/Hardware/26.webp",
+    "specImage": "/images/img/5-1/22.webp",
+    "category": "Low-High-Voltage-Hardware"
+  },
+
+  {
+    "id": "GUT-095",
+    "name": "Guy Thimble",
+    "image": "/images/img/Hardware/27.webp",
+    "specImage": "/images/img/5-1/23.webp",
+    "category": "Low-High-Voltage-Hardware"
+  },
+
+  {
+    "id": "GSW-0025",
+    "name": "Gavanized Steel Eire ",
+    "image": "/images/img/Hardware/28.webp",
+    "specImage": "/images/img/5-1/24.webp",
+    "category": "Low-High-Voltage-Hardware"
+  },
+
+  {
+    "id": "GSI541-035",
+    "name": "Guy Strain Insulator ",
+    "image": "/images/img/Hardware/29.webp",
+    "specImage": "/images/img/5-1/25.webp",
+    "category": "Low-High-Voltage-Hardware"
+  },
+  {
+    "id": "RAC-0033",
+    "name": "Heavy-Type Rack ",
+    "image": "/images/img/Hardware/30.webp",
+    "specImage": "/images/img/5-1/26.webp",
+    "category": "Low-High-Voltage-Hardware"
+  },
+
+  {
+    "id": "SI532-1",
+    "name": " Spool Insulator ",
+    "image": "/images/img/Hardware/31.webp",
+    "specImage": "/images/img/5-1/27.webp",
+    "category": "Low-High-Voltage-Hardware"
+  },
+
+  {
+    "id": "WHO-101",
+    "name": " Wire Holde",
+    "image": "/images/img/Hardware/32.webp",
+    "specImage": "/images/img/5-1/28.webp",
+    "category": "Low-High-Voltage-Hardware"
+  },
+
+  {
+    "id": "TIW-004",
+    "name": "Tie Wire Aluminium ",
+    "image": "/images/img/Hardware/33.webp",
+    "specImage": "/images/img/5-1/29.webp",
+    "category": "Low-High-Voltage-Hardware"
+  },
+
+  {
+    "id": "AMT-010",
+    "name": "Armour Tape Aluminium ",
+    "image": "/images/img/Hardware/34.webp",
+    "specImage": "/images/img/5-1/30.webp",
+    "category": "Low-High-Voltage-Hardware"
+  },
+
+  {
+    "id": "ACC-101",
+    "name": "Aerial Cable Corner Support Bracket ",
+    "image": "/images/img/Hardware/35.webp",
+    "specImage": "/images/img/5-1/31.webp",
+    "category": "Low-High-Voltage-Hardware"
+  },
+
+  {
+    "id": "ACS-201",
+    "name": "Aerial Cable Tangent Support Bracket ",
+    "image": "/images/img/Hardware/37.webp",
+    "specImage": "/images/img/5-1/32.webp",
+    "category": "Low-High-Voltage-Hardware"
+  },
+
+  {
+    "id": "GC-3001",
+    "name": "3 Bolts Fuy Clamp ",
+    "image": "/images/img/Hardware/39.webp",
+    "specImage": "/images/img/5-1/33.webp",
+    "category": "Low-High-Voltage-Hardware"
+  },
+
+  {
+    "id": "LCS-001",
+    "name": "Cable Spacer Hanger",
+    "image": "/images/img/Hardware/40.webp",
+    "specImage": "/images/img/5-1/34.webp",
+    "category": "Low-High-Voltage-Hardware"
+  },
+  {
+    "id": "CSP-101",
+    "name": "Cable Spacer PVC",
+    "image": "/images/img/Hardware/41.webp",
+    "specImage": "/images/img/5-1/35.webp",
+    "category": "Low-High-Voltage-Hardware"
+  },
+  {
+    "id": "CSC-101",
+    "name": " Cable Spacer Ceramic ",
+    "image": "/images/img/Hardware/42.webp",
+    "specImage": "/images/img/5-1/35.webp",
+    "category": "Low-High-Voltage-Hardware"
+  },
+  {
+    "id": "CRS-050250",
+    "name": "Channel Steel Crossarm ",
+    "image": "/images/img/Hardware/43.webp",
+    "specImage": "/images/img/5-1/36.webp",
+    "category": "Low-High-Voltage-Hardware"
+  },
+  {
+    "id": "ASB-6560100",
+    "name": "Angel Steel Beam",
+    "image": "/images/img/Hardware/44.webp",
+    "specImage": "/images/img/5-1/37.webp",
+    "category": "Low-High-Voltage-Hardware"
+  },
+
+  {
+    "id": "BAA-4050212",
+    "name": "Brace Allry Arm ",
+    "image": "/images/img/Hardware/45.webp",
+    "specImage": "/images/img/5-1/38.webp",
+    "category": "Low-High-Voltage-Hardware"
+  },
+
+  {
+    "id": "BFC-3060760",
+    "name": "Flat Brace for Crossarm ",
+    "image": "/images/img/Hardware/46.webp",
+    "specImage": "/images/img/5-1/39.webp",
+    "category": "Low-High-Voltage-Hardware"
+  },
+  {
+    "id": "THC-101",
+    "name": " Thimble Clevis ",
+    "image": "/images/img/Hardware/47.webp",
+    "specImage": "/images/img/5-1/40.webp",
+    "category": "Low-High-Voltage-Hardware"
+  },
+
+  {
+    "id": "PF-0016",
+    "name": "Preform Dead End For Coated Cable ",
+    "image": "/images/img/Hardware/48.webp",
+    "specImage": "/images/img/5-1/41.webp",
+    "category": "Low-High-Voltage-Hardware"
+  },
+
+  {
+    "id": "SI521-060",
+    "name": "Suspension Insulator ",
+    "image": "/images/img/Hardware/49.webp",
+    "specImage": "/images/img/5-1/42.webp",
+    "category": "Low-High-Voltage-Hardware"
+  },
+
+  {
+    "id": "LPI572-022",
+    "name": " Line Post Insulator ",
+    "image": "/images/img/Hardware/50.webp",
+    "specImage": "/images/img/5-1/43.webp",
+    "category": "Low-High-Voltage-Hardware"
+  },
+
+  {
+    "id": "PP572L-24",
+    "name": "Pin Port Insulator ",
+    "image": "/images/img/Hardware/51.webp",
+    "specImage": "/images/img/5-1/44.webp",
+    "category": "Low-High-Voltage-Hardware"
+  },
+
+  {
+    "id": "LVFS-40050",
+    "name": "Low Voltage Fuse Switch ",
+    "image": "/images/img/Hardware/52.webp",
+    "specImage": "/images/img/5-1/45.webp",
+    "category": "Low-High-Voltage-Hardware"
+  },
+  {
+    "id": "DO27-10012",
+    "name": " Medium Voltage Fuse Cutout / Drop Fuse ",
+    "image": "/images/img/Hardware/53.webp",
+    "specImage": "/images/img/5-1/46.webp",
+    "category": "Low-High-Voltage-Hardware"
+  },
+
+  {
+    "id": "LAHV-21005",
+    "name": "High Voltage,Surge Arrester",
+    "image": "/images/img/Hardware/54.webp",
+    "specImage": "/images/img/5-1/47.webp",
+    "category": "Low-High-Voltage-Hardware"
+  },
+
+  {
+    "id": "LALV-50025",
+    "name": "High Voltage,Surge Arrester",
+    "image": "/images/img/Hardware/55.webp",
+    "specImage": "/images/img/5-1/48.webp",
+    "category": "Low-High-Voltage-Hardware"
+  },
+  {
+    "id": "MBDO-101",
+    "name": " Mounting Bracket for Droout & Lighting ",
+    "image": "/images/img/Hardware/56.webp",
+    "specImage": "/images/img/5-1/49.webp",
+    "category": "Low-High-Voltage-Hardware"
+  },
+
+  {
+    "id": "MBTE-101",
+    "name": "Mounting Bracket for Termination",
+    "image": "/images/img/Hardware/57.webp",
+    "specImage": "/images/img/5-1/49.webp",
+    "category": "Low-High-Voltage-Hardware"
+  },
+
+  {
+    "id": "ODB-050225",
+    "name": "Overhead Ground Wire Dead End Bayonet",
+    "image": "/images/img/Hardware/58.webp",
+    "specImage": "/images/img/5-1/50.webp",
+    "category": "Low-High-Voltage-Hardware"
+  },
+
+  {
+    "id": "OBS-6560225",
+    "name": "Overhead Ground Wire Bayonet ",
+    "image": "/images/img/Hardware/59.webp",
+    "specImage": "/images/img/5-1/51.webp",
+    "category": "Low-High-Voltage-Hardware"
+  },
+
+  {
+    "id": "GWOJ-0152",
+    "name": "Ground Wire Support and Clamp ",
+    "image": "/images/img/Hardware/60.webp",
+    "specImage": "/images/img/5-1/52.webp",
+    "category": "Low-High-Voltage-Hardware"
+  },
+  {
+    "id": "GWBY-0100",
+    "name": "Ground Wire Support and Clamp For Bayonet ",
+    "image": "/images/img/Hardware/61.webp",
+    "specImage": "/images/img/5-1/52.webp",
+    "category": "Low-High-Voltage-Hardware"
+  },
+
+  {
+    "id": "GWCP-0100",
+    "name": "Ground Wire Support and Clamp For Concrete Pole ",
+    "image": "/images/img/Hardware/62.webp",
+    "specImage": "/images/img/5-1/52.webp",
+    "category": "Low-High-Voltage-Hardware"
+  },
+
+  {
+    "id": "HDGGR-016100",
+    "name": "Hot Dip Galvanixed Gound Rod ",
+    "image": "/images/img/Hardware/63.webp",
+    "specImage": "/images/img/5-1/53.webp",
+    "category": "Low-High-Voltage-Hardware"
+  },
+
+  {
+    "id": "EAS-60520",
+    "name": "Earthing Spike ",
+    "image": "/images/img/Hardware/64.webp",
+    "specImage": "/images/img/5-1/54.webp",
+    "category": "Low-High-Voltage-Hardware"
+  },
+
+  {
+    "id": "SUT-101",
+    "name": "Supporting Tranformer",
+    "image": "/images/img/Hardware/65.webp",
+    "specImage": "/images/img/5-1/55.webp",
+    "category": "Low-High-Voltage-Hardware"
+  },
+
+  {
+    "id": "MHS-101",
+    "name": "ManHoke Step",
+    "image": "/images/img/Hardware/67.webp",
+    "specImage": "/images/img/5-1/57.webp",
+    "category": "Low-High-Voltage-Hardware"
+  },
+  {
+    "id": "SLB-1100",
+    "name": "Adjustable Street Lighting Bracket Hot Rolled form C-Channel Base ",
+    "image": "/images/img/Street/1.webp",
+    "specImage": "/images/img/6-1/1.webp",
+    "category": "Street-Lighting"
+  },
+
+  {
+    "id": "SLB-1112",
+    "name": " Adjustable Street Lighting Bracket Pressed Form C-Channel Base  ",
+    "image": "/images/img/Street/2.webp",
+    "specImage": "/images/img/6-1/1.webp",
+    "category": "Street-Lighting"
+  },
+
+  {
+    "id": "SLB-3100",
+    "name": " Street Lighting Bracket ",
+    "image": "/images/img/Street/3.webp",
+    "specImage": "/images/img/6-1/2.webp",
+    "category": "Street-Lighting"
+  },
+
+  {
+    "id": "CRE-101",
+    "name": " Z Type  ",
+    "image": "/images/img/Street/4.webp",
+    "specImage": "/images/img/6-1/3.webp",
+    "category": "Street-Lighting"
+  },
+  {
+    "id": "JAB-05825",
+    "name": " Angle Bolt  ",
+    "image": "/images/img/Street/5.webp",
+    "specImage": "/images/img/6-1/4.webp",
+    "category": "Street-Lighting"
+  },
+
+  {
+    "id": "LAB-058061",
+    "name": " Anchor Bolt  ",
+    "image": "/images/img/Street/6.webp",
+    "specImage": "/images/img/6-1/5.webp",
+    "category": "Street-Lighting"
+  },
+
+  {
+    "id": "ABK-341800",
+    "name": " Arm Bracket  ",
+    "image": "/images/img/Street/7.webp",
+    "specImage": "/images/img/6-1/6.webp",
+    "category": "Street-Lighting"
+  },
+
+  {
+    "id": "GRS-16180",
+    "name": " Street Lighting Ground Rod   ",
+    "image": "/images/img/Street/8.webp",
+    "specImage": "/images/img/6-1/7.webp",
+    "category": "Street-Lighting"
+  },
+
+  {
+    "id": "HOB-58005",
+    "name": " Hook Bolt ",
+    "image": "/images/img/Telecom/1.webp",
+    "specImage": "/images/img/7-1/1.webp",
+    "category": "Telecom-Hardware"
+  },
+  {
+    "id": "GTG-1201",
+    "name": " Zinc-Electrolyzed Ground Rod",
+    "image": "/images/img/Telecom/2.webp",
+    "specImage": "/images/img/7-1/2.webp",
+    "category": "Telecom-Hardware"
+  },
+
+  {
+    "id": "UG2001",
+    "name": " UG Cable Rack 14 Hole",
+    "image": "/images/img/Underground/1.webp",
+    "specImage": "/images/img/8-1/1.webp",
+    "category": "Underground-Electrical-Equipment"
+  },
+
+  {
+    "id": "UGSC-003",
+    "name": " UG Cable Support Type C  ",
+    "image": "/images/img/Underground/2.webp",
+    "specImage": "/images/img/8-1/2.webp",
+    "category": "Underground-Electrical-Equipment"
+  },
+
+  {
+    "id": "UGSC-004",
+    "name": "UG Cable Support Type D",
+    "image": "/images/img/Underground/4.webp",
+    "specImage": "/images/img/8-1/3.webp",
+    "category": "Underground-Electrical-Equipment"
+  },
+
+  {
+    "id": "CRP-115",
+    "name": " Concrete Racking Pole  ",
+    "image": "/images/img/Underground/6.webp",
+    "specImage": "/images/img/8-1/4.webp",
+    "category": "Underground-Electrical-Equipment"
+  },
+
+  {
+    "id": "PUI-101",
+    "name": " Pulling Iron",
+    "image": "/images/img/Underground/7.webp",
+    "specImage": "/images/img/8-1/5.webp",
+    "category": "Underground-Electrical-Equipment"
+  },
+
+  {
+    "id": "MHST-101",
+    "name": " Manhole Step",
+    "image": "/images/img/Underground/8.webp",
+    "specImage": "/images/img/8-1/6.webp",
+    "category": "Underground-Electrical-Equipment"
+  },
+  {
+    "id": "ENST-101",
+    "name": " Entrance Step  ",
+    "image": "/images/img/Underground/9.webp",
+    "specImage": "/images/img/8-1/7.webp",
+    "category": "Underground-Electrical-Equipment"
+  },
+
+  {
+    "id": "UGCS-075",
+    "name": " Under Ground Cable Support 75CM.  ",
+    "image": "/images/img/Underground/10.webp",
+    "specImage": "/images/img/8-1/8.webp",
+    "category": "Underground-Electrical-Equipment"
+  },
+
+  {
+    "id": "UGCR-072",
+    "name": " Under Ground Cable rack 72CM.  ",
+    "image": "/images/img/Underground/11.webp",
+    "specImage": "/images/img/8-1/8.webp",
+    "category": "Underground-Electrical-Equipment"
+  },
+
+  {
+    "id": "SGC-115",
+    "name": " Steel Guard Construction   ",
+    "image": "/images/img/Underground/12.webp",
+    "specImage": "/images/img/8-1/9.webp",
+    "category": "Underground-Electrical-Equipment"
+  },
+
+  {
+    "id": "SGC-22331",
+    "name": " Z steel   ",
+    "image": "/images/img/Underground/13.webp",
+    "specImage": "/images/img/8-1/10.webp",
+    "category": "Underground-Electrical-Equipment"
+  },
+
+  {
+    "id": "RSCD04",
+    "name": " MEA Riser Clamp for RSC Double ",
+    "image": "/images/img/Underground/14.webp",
+    "specImage": "/images/img/8-1/11.webp",
+    "category": "Underground-Electrical-Equipment"
+  }
+]

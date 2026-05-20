@@ -1,0 +1,306 @@
+{
+  "primary_keywords": {
+    "thai": [
+      "กราวด์รอด",
+      "อุปกรณ์ไฟฟ้า",
+      "ระบบไฟฟ้า",
+      "ไฟฟ้าแรงสูง",
+      "ไฟฟ้าแรงต่ำ",
+      "ระบบกราวด์",
+      "ระบบป้องกันฟ้าผ่า",
+      "สายไฟ",
+      "เบรกเกอร์",
+      "ปลั๊กไฟ",
+      "สวิตช์",
+      "คอนเนคเตอร์",
+      "ท่อร้อยสาย",
+      "ไฟถนน",
+      "อุปกรณ์ใต้ดิน"
+    ],
+    "english": [
+      "ground rod",
+      "electrical equipment",
+      "electrical system",
+      "high voltage",
+      "low voltage",
+      "grounding system",
+      "lightning protection",
+      "electrical wire",
+      "circuit breaker",
+      "power outlet",
+      "electrical switch",
+      "electrical connector",
+      "conduit",
+      "street lighting",
+      "underground equipment"
+    ]
+  },
+  "product_categories": {
+    "Ground-System": {
+      "thai": [
+        "กราวด์รอด",
+        "ระบบกราวด์",
+        "แคล้มป์กราวด์",
+        "สายกราวด์",
+        "แท่งกราวด์"
+      ],
+      "english": [
+        "ground rod",
+        "grounding system",
+        "ground clamp",
+        "ground wire",
+        "grounding rod"
+      ]
+    },
+    "Lightning-Protection-System": {
+      "thai": [
+        "ระบบป้องกันฟ้าผ่า",
+        "สายล่อฟ้า",
+        "แท่งล่อฟ้า",
+        "ระบบป้องกันฟ้า",
+        "อุปกรณ์ป้องกันฟ้าผ่า"
+      ],
+      "english": [
+        "lightning protection",
+        "lightning rod",
+        "lightning conductor",
+        "lightning system",
+        "surge protection"
+      ]
+    },
+    "Conduit-Fittings": {
+      "thai": ["ท่อร้อยสาย", "ข้อต่อท่อ", "ข้อต่อ", "ท่อไฟฟ้า", "อุปกรณ์ท่อ"],
+      "english": [
+        "conduit",
+        "conduit fitting",
+        "electrical conduit",
+        "pipe fitting",
+        "conduit accessories"
+      ]
+    },
+    "Electrical-Connectors": {
+      "thai": [
+        "คอนเนคเตอร์ไฟฟ้า",
+        "ข้อต่อไฟฟ้า",
+        "ปลั๊ก",
+        "เต้าเสียบ",
+        "คอนเนคเตอร์"
+      ],
+      "english": [
+        "electrical connector",
+        "power connector",
+        "plug",
+        "socket",
+        "connector"
+      ]
+    },
+    "Low-High-Voltage-Hardware": {
+      "thai": [
+        "อุปกรณ์แรงต่ำ",
+        "อุปกรณ์แรงสูง",
+        "ฮาร์ดแวร์ไฟฟ้า",
+        "อุปกรณ์ไฟฟ้า",
+        "เครื่องมือไฟฟ้า"
+      ],
+      "english": [
+        "low voltage hardware",
+        "high voltage hardware",
+        "electrical hardware",
+        "power equipment",
+        "electrical tools"
+      ]
+    },
+    "Street-Lighting": {
+      "thai": ["ไฟถนน", "ไฟสาธารณะ", "โคมไฟถนน", "ระบบไฟถนน", "ไฟ LED"],
+      "english": [
+        "street lighting",
+        "public lighting",
+        "road lighting",
+        "LED street light",
+        "outdoor lighting"
+      ]
+    },
+    "Telecom-Hardware": {
+      "thai": [
+        "อุปกรณ์โทรคมนาคม",
+        "ฮาร์ดแวร์โทรคมนาคม",
+        "อุปกรณ์สื่อสาร",
+        "เครือข่ายโทรคมนาคม"
+      ],
+      "english": [
+        "telecom hardware",
+        "telecommunications equipment",
+        "communication hardware",
+        "network equipment"
+      ]
+    },
+    "Underground-Electrical-Equipment": {
+      "thai": [
+        "อุปกรณ์ใต้ดิน",
+        "อุปกรณ์ไฟฟ้าใต้ดิน",
+        "ระบบใต้ดิน",
+        "อุปกรณ์ฝังดิน"
+      ],
+      "english": [
+        "underground equipment",
+        "underground electrical",
+        "buried equipment",
+        "subsurface equipment"
+      ]
+    }
+  },
+  "technical_specifications": {
+    "materials": {
+      "thai": [
+        "ทองแดง",
+        "เหล็ก",
+        "สแตนเลส",
+        "อลูมิเนียม",
+        "พลาสติก",
+        "ยาง",
+        "เซรามิก"
+      ],
+      "english": [
+        "copper",
+        "steel",
+        "stainless steel",
+        "aluminum",
+        "plastic",
+        "rubber",
+        "ceramic"
+      ]
+    },
+    "standards": {
+      "thai": [
+        "มาตรฐาน ISO",
+        "มาตรฐาน IEC",
+        "มาตรฐาน CE",
+        "มาตรฐาน EGAT",
+        "มาตรฐาน MEA",
+        "มาตรฐาน PEA"
+      ],
+      "english": [
+        "ISO standard",
+        "IEC standard",
+        "CE standard",
+        "EGAT standard",
+        "MEA standard",
+        "PEA standard"
+      ]
+    },
+    "specifications": {
+      "thai": [
+        "แรงดัน",
+        "กระแส",
+        "ความถี่",
+        "อุณหภูมิ",
+        "ความชื้น",
+        "การป้องกัน",
+        "ขนาด",
+        "น้ำหนัก"
+      ],
+      "english": [
+        "voltage",
+        "current",
+        "frequency",
+        "temperature",
+        "humidity",
+        "protection",
+        "size",
+        "weight"
+      ]
+    }
+  },
+  "location_keywords": {
+    "thai": [
+      "กรุงเทพ",
+      "เชียงใหม่",
+      "ขอนแก่น",
+      "อุบลราชธานี",
+      "สงขลา",
+      "ภูเก็ต",
+      "พัทยา",
+      "ประเทศไทย",
+      "เอเชีย",
+      "อาเซียน",
+      "โรงงานไทย",
+      "ผลิตในไทย"
+    ],
+    "english": [
+      "Bangkok",
+      "Chiang Mai",
+      "Khon Kaen",
+      "Ubon Ratchathani",
+      "Songkhla",
+      "Phuket",
+      "Pattaya",
+      "Thailand",
+      "Asia",
+      "ASEAN",
+      "Thai factory",
+      "Made in Thailand"
+    ]
+  },
+  "industry_keywords": {
+    "thai": [
+      "อุตสาหกรรม",
+      "โรงงาน",
+      "อาคาร",
+      "บ้าน",
+      "โรงพยาบาล",
+      "โรงเรียน",
+      "ห้างสรรพสินค้า",
+      "โรงแรม",
+      "สำนักงาน",
+      "โกดัง",
+      "ท่าเรือ",
+      "สนามบิน",
+      "สถานีรถไฟ"
+    ],
+    "english": [
+      "industrial",
+      "factory",
+      "building",
+      "residential",
+      "hospital",
+      "school",
+      "shopping mall",
+      "hotel",
+      "office",
+      "warehouse",
+      "port",
+      "airport",
+      "train station"
+    ]
+  },
+  "long_tail_keywords": {
+    "thai": [
+      "กราวด์รอดราคาถูก",
+      "อุปกรณ์ไฟฟ้าคุณภาพสูง",
+      "ระบบกราวด์รอดมาตรฐาน",
+      "เบรกเกอร์คุณภาพ",
+      "ปลั๊กไฟมาตรฐาน",
+      "สวิตช์ไฟฟ้าคุณภาพ",
+      "ท่อร้อยสายคุณภาพ",
+      "ไฟถนน LED",
+      "อุปกรณ์ไฟฟ้าโรงงาน",
+      "ระบบไฟฟ้าอาคาร",
+      "อุปกรณ์ไฟฟ้าบ้าน",
+      "ระบบป้องกันฟ้าผ่าบ้าน"
+    ],
+    "english": [
+      "cheap ground rod",
+      "high quality electrical equipment",
+      "standard grounding system",
+      "quality circuit breaker",
+      "standard power outlet",
+      "quality electrical switch",
+      "quality conduit",
+      "LED street light",
+      "factory electrical equipment",
+      "building electrical system",
+      "home electrical equipment",
+      "home lightning protection"
+    ]
+  }
+}

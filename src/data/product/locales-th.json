@@ -1,0 +1,16 @@
+{
+  "productsTitle": "สินค้า",
+  "backButton": "← กลับไปหน้าสินค้า",
+  "searchPlaceholder": "ค้นหาชื่อ หรือ รหัสสินค้า...",
+  "allCategories": "หมวดหมู่ทั้งหมด",
+  "categories": {
+    "Ground-System": "ระบบสายดิน",
+    "Lightning-Protection-System": "ระบบป้องกันฟ้าผ่า",
+    "Conduit-Fittings": "อุปกรณ์ท่อร้อยสายไฟฟ้า",
+    "Electrical-Connectors": "อุปกรณ์ต่อสายไฟฟ้า",
+    "Low-High-Voltage-Hardware": "อุปกรณ์ฮาร์ดแวร์แรงต่ำ-แรงสูง",
+    "Street-Lighting": "โคมไฟถนน",
+    "Telecom-Hardware": "อุปกรณ์โทรคมนาคม",
+    "Underground-Electrical-Equipment": "อุปกรณ์ไฟฟ้าใต้ดิน"
+  }
+}
